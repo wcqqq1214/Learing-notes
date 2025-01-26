@@ -1,2 +1,2 @@
-It is my learning notes;
-Hope it can be helpful for you. ^_^
+There are my learning notes;
+Hope these can be helpful for you. ^_^
